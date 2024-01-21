@@ -2,4 +2,4 @@
 ---------------------------------------------------
 <p>The vertical slider with asynchronous image change.</p>
 
-<a href="https://raw.githack.com/StoyanGalchev/Slider/main/index.html" target="_blank">View Project Live</a>
+<a href="https://stoyangalchev.github.io/Slider/" target="_blank">View Project Live</a>
